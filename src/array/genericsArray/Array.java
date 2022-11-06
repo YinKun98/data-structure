@@ -1,4 +1,4 @@
-package genericsArray;
+package array.genericsArray;
 
 /**
  * @Author: yin-k

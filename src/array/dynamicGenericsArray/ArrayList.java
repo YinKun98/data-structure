@@ -1,4 +1,4 @@
-package dynamicGenericsArray;
+package array.dynamicGenericsArray;
 
 /**
  * @Author: yin-k
