@@ -1,4 +1,4 @@
-package intArray;
+package array.intArray;
 
 /**
  * @Author: yin-k
