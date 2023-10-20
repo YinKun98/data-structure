@@ -1,4 +1,4 @@
-package array.dynamicGenericsArray;
+package dataStructure.array.dynamicGenericsArray;
 
 /**
  * @Author: yin-k
